@@ -1,0 +1,864 @@
+[
+    {
+        "id": 396,
+        "full_name": "Deepti Mishra",
+        "linkedin_url": "https://www.linkedin.com/in/dmishra297/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Jan 2023 - Present",
+                "duration": "1 yr 9 mos",
+                "title": "Building"
+            },
+            {
+                "company": "Swiggy",
+                "company_linkedin_url": "https://www.linkedin.com/company/9252341",
+                "date_range": "Feb 2022 - Mar 2023",
+                "duration": "1 yr 2 mos",
+                "title": "Influencer and Community Marketing"
+            },
+            {
+                "company": "OYO",
+                "company_linkedin_url": "https://www.linkedin.com/company/3716484",
+                "date_range": "2020 - 2021",
+                "duration": "1 yr",
+                "title": "Product Marketing Associate"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "full_name": "Himanshu Barnawal",
+        "linkedin_url": "https://www.linkedin.com/in/himanshu-barnawal-a53635140/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Aug 2024 - Present",
+                "duration": "2 mos",
+                "title": "Building"
+            },
+            {
+                "company": "Siemens EDA (Siemens Digital Industries Software)",
+                "company_linkedin_url": "https://www.linkedin.com/company/71273635",
+                "date_range": "Aug 2022 - Jul 2024",
+                "duration": "2 yrs",
+                "title": "Member Of Technical Staff"
+            },
+            {
+                "company": "Zomato",
+                "company_linkedin_url": "https://www.linkedin.com/company/422813",
+                "date_range": "Nov 2021 - Aug 2022",
+                "duration": "10 mos",
+                "title": "Software Engineer"
+            },
+            {
+                "company": "Oracle",
+                "company_linkedin_url": "https://www.linkedin.com/company/1028",
+                "date_range": "Jul 2021 - Nov 2021",
+                "duration": "5 mos",
+                "title": "Member of Technical Staff"
+            },
+            {
+                "company": "bigbasket.com",
+                "company_linkedin_url": "https://www.linkedin.com/company/8848940",
+                "date_range": "Jan 2020 - Jun 2020",
+                "duration": "6 mos",
+                "title": "Software Intern"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "full_name": "Partha Sarathi Mohanty",
+        "linkedin_url": "https://www.linkedin.com/in/parthasmohanty/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Mode",
+                "company_linkedin_url": "https://www.linkedin.com/company/18016269",
+                "date_range": "May 2024 - Present",
+                "duration": "5 mos",
+                "title": "Builder"
+            },
+            {
+                "company": "Mensa Brands",
+                "company_linkedin_url": "https://www.linkedin.com/company/74127874",
+                "date_range": "Oct 2021 - Mar 2024",
+                "duration": "2 yrs 6 mos",
+                "title": "Product"
+            },
+            {
+                "company": "Zolo",
+                "company_linkedin_url": "https://www.linkedin.com/company/6440950",
+                "date_range": "Oct 2019 - Oct 2021",
+                "duration": "2 yrs 1 mo",
+                "title": "Head of Product"
+            },
+            {
+                "company": "BlackBuck (Zinka Logistics Solutions Pvt. Ltd.)",
+                "company_linkedin_url": "https://www.linkedin.com/company/10152397",
+                "date_range": "Nov 2017 - Aug 2019",
+                "duration": "1 yr 10 mos",
+                "title": "Product Lead (Demand, Marketplace & Pricing)"
+            },
+            {
+                "company": "Shadowfax",
+                "company_linkedin_url": "https://www.linkedin.com/company/9480715",
+                "date_range": "Apr 2016 - Nov 2017",
+                "duration": "1 yr 8 mos",
+                "title": "AVP, Product"
+            },
+            {
+                "company": "Myntra Jabong",
+                "company_linkedin_url": "https://www.linkedin.com/company/361348",
+                "date_range": "Aug 2014 - Apr 2015",
+                "duration": "9 mos",
+                "title": "Technical Lead, Supply Chain"
+            },
+            {
+                "company": "Fab",
+                "company_linkedin_url": "https://www.linkedin.com/company/1601709",
+                "date_range": "Jun 2013 - Aug 2014",
+                "duration": "1 yr 3 mos",
+                "title": "Principal Engineer"
+            },
+            {
+                "company": "Amazon",
+                "company_linkedin_url": "https://www.linkedin.com/company/1586",
+                "date_range": "Jul 2011 - Jun 2013",
+                "duration": "2 yrs",
+                "title": "SDE"
+            },
+            {
+                "company": "Amdocs",
+                "company_linkedin_url": "https://www.linkedin.com/company/1539",
+                "date_range": "Jul 2009 - Jul 2011",
+                "duration": "2 yrs 1 mo",
+                "title": "SDE"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "full_name": "Dharmendra Maurya",
+        "linkedin_url": "https://www.linkedin.com/in/dharmendram08/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Jan 2024 - Present",
+                "duration": "9 mos",
+                "title": "Building in Stealth"
+            },
+            {
+                "company": "All About Projects",
+                "company_linkedin_url": "https://www.linkedin.com/company/31100262",
+                "date_range": "Dec 2022 - Dec 2023",
+                "duration": "1 yr 1 mo",
+                "title": "Independent Product Consultant"
+            },
+            {
+                "company": "Ola",
+                "company_linkedin_url": "https://www.linkedin.com/company/2580522",
+                "date_range": "Oct 2021 - Dec 2022",
+                "duration": "1 yr 3 mos",
+                "title": "Product Leader - Growth & New Initiatives"
+            },
+            {
+                "company": "TieSet",
+                "company_linkedin_url": "https://www.linkedin.com/company/42351380",
+                "date_range": "Jun 2021 - Oct 2021",
+                "duration": "5 mos",
+                "title": "Product Advisor - AI/ML"
+            },
+            {
+                "company": "Swiggy",
+                "company_linkedin_url": "https://www.linkedin.com/company/9252341",
+                "date_range": "May 2020 - Oct 2021",
+                "duration": "1 yr 6 mos",
+                "title": "Product - Innovation Labs"
+            },
+            {
+                "company": "eBikeGo | Intelligent Mobility as a Service ",
+                "company_linkedin_url": "https://www.linkedin.com/company/14473023",
+                "date_range": "Feb 2020 - Mar 2021",
+                "duration": "1 yr 2 mos",
+                "title": "Product Advisor"
+            },
+            {
+                "company": "Carnot Technologies Private Limited",
+                "company_linkedin_url": "https://www.linkedin.com/company/10607499",
+                "date_range": "Aug 2015 - Feb 2020",
+                "duration": "4 yrs 7 mos",
+                "title": "Founding Team (Acquired by Tech Mahindra)"
+            },
+            {
+                "company": "ION Energy Inc.",
+                "company_linkedin_url": "https://www.linkedin.com/company/13291650",
+                "date_range": "May 2016 - Nov 2016",
+                "duration": "7 mos",
+                "title": "Product Advisor (Acquired by Endurance Technologies)"
+            },
+            {
+                "company": "IIT Bombay Racing",
+                "company_linkedin_url": "https://www.linkedin.com/company/2518557",
+                "date_range": "Jul 2012 - Jul 2015",
+                "duration": "3 yrs 1 mo",
+                "title": "Project Head"
+            },
+            {
+                "company": "Morgan Stanley",
+                "company_linkedin_url": "https://www.linkedin.com/company/497017",
+                "date_range": "May 2014 - Jul 2014",
+                "duration": "3 mos",
+                "title": "Analyst"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "full_name": "Nidhir Roongta",
+        "linkedin_url": "https://www.linkedin.com/in/nidhir-roongta/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Mar 2023 - Present",
+                "duration": "1 yr 7 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "BrowserStack",
+                "company_linkedin_url": "https://www.linkedin.com/company/2553488",
+                "date_range": "Aug 2022 - Nov 2023",
+                "duration": "1 yr 4 mos",
+                "title": "Lead - Business Finance"
+            },
+            {
+                "company": "noon",
+                "company_linkedin_url": "https://www.linkedin.com/company/18045372",
+                "date_range": "Aug 2021 - Jul 2022",
+                "duration": "1 yr",
+                "title": "Senior Manager - Finance"
+            },
+            {
+                "company": "Swiggy",
+                "company_linkedin_url": "https://www.linkedin.com/company/9252341",
+                "date_range": "Oct 2020 - Aug 2021",
+                "duration": "11 mos",
+                "title": "Senior Manager - Finance"
+            },
+            {
+                "company": "Swiggy",
+                "company_linkedin_url": "https://www.linkedin.com/company/9252341",
+                "date_range": "Apr 2019 - Oct 2020",
+                "duration": "1 yr 7 mos",
+                "title": "Cluster Finance Manager"
+            },
+            {
+                "company": "Pernod Ricard",
+                "company_linkedin_url": "https://www.linkedin.com/company/12951",
+                "date_range": "Jan 2018 - Apr 2019",
+                "duration": "1 yr 4 mos",
+                "title": "Assistant Manager Finance"
+            },
+            {
+                "company": "HCL Infosystems Ltd.",
+                "company_linkedin_url": "https://www.linkedin.com/company/7240",
+                "date_range": "Oct 2015 - Dec 2017",
+                "duration": "2 yrs 3 mos",
+                "title": "Assistant Manager"
+            },
+            {
+                "company": "Choudhury Agrawal & Co.",
+                "company_linkedin_url": "https://www.linkedin.com/company/1695425",
+                "date_range": "Sep 2012 - Sep 2015",
+                "duration": "3 yrs 1 mo",
+                "title": "Article Assistant"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "full_name": "Vipul A.",
+        "linkedin_url": "https://www.linkedin.com/in/vipulagarwalmba/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Feb 2024 - Present",
+                "duration": "8 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "BZAAR",
+                "company_linkedin_url": "https://www.linkedin.com/company/71349194",
+                "date_range": "Dec 2022 - Jan 2024",
+                "duration": "1 yr 2 mos",
+                "title": "Category Head - Cross Border Ecommerce"
+            },
+            {
+                "company": "Thrasio",
+                "company_linkedin_url": "https://www.linkedin.com/company/34224678",
+                "date_range": "Feb 2021 - Nov 2022",
+                "duration": "1 yr 10 mos",
+                "title": "Category Head - Sports & Consumer Durables"
+            },
+            {
+                "company": "Purplle.com",
+                "company_linkedin_url": "https://www.linkedin.com/company/2706205",
+                "date_range": "Dec 2018 - Nov 2020",
+                "duration": "2 yrs",
+                "title": "General Manager - Beauty & Personal Care"
+            },
+            {
+                "company": "Pepperfry",
+                "company_linkedin_url": "https://www.linkedin.com/company/2427677",
+                "date_range": "Jul 2015 - Sep 2018",
+                "duration": "3 yrs 3 mos",
+                "title": "Senior Manager - Home & Furniture Category"
+            },
+            {
+                "company": "Capgemini Consulting",
+                "company_linkedin_url": "https://www.linkedin.com/company/1075",
+                "date_range": "Jun 2013 - Jul 2015",
+                "duration": "2 yrs 2 mos",
+                "title": "Senior Consultant - Management Consulting"
+            },
+            {
+                "company": "Tata Motors",
+                "company_linkedin_url": "https://www.linkedin.com/company/5665",
+                "date_range": "Apr 2012 - Jun 2012",
+                "duration": "3 mos",
+                "title": "Summer Intern - Strategic Planning"
+            },
+            {
+                "company": "Tata Consultancy Services",
+                "company_linkedin_url": "https://www.linkedin.com/company/1353",
+                "date_range": "Jul 2008 - Jun 2011",
+                "duration": "3 yrs",
+                "title": "Business Analyst - Retail & Consumer Goods"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "full_name": "Sameer Alodia",
+        "linkedin_url": "https://www.linkedin.com/in/sameer-alodia-8a8b848/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Stealth Mode",
+                "company_linkedin_url": "https://www.linkedin.com/company/18016269",
+                "date_range": "Apr 2023 - Present",
+                "duration": "1 yr 6 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "FogTeams",
+                "company_linkedin_url": "https://www.linkedin.com/company/82003482",
+                "date_range": "Sep 2022 - Mar 2023",
+                "duration": "7 mos",
+                "title": "Product & Strategy"
+            },
+            {
+                "company": "Stealth mode",
+                "company_linkedin_url": "",
+                "date_range": "Apr 2021 - Aug 2022",
+                "duration": "1 yr 5 mos",
+                "title": "Founding team"
+            },
+            {
+                "company": "Delhivery",
+                "company_linkedin_url": "https://www.linkedin.com/company/2312777",
+                "date_range": "Nov 2020 - Apr 2021",
+                "duration": "6 mos",
+                "title": "Director"
+            },
+            {
+                "company": "BrowserStack",
+                "company_linkedin_url": "https://www.linkedin.com/company/2553488",
+                "date_range": "Feb 2020 - Jun 2020",
+                "duration": "5 mos",
+                "title": "Corporate Development (M&A and Strategy)"
+            },
+            {
+                "company": "Ambit",
+                "company_linkedin_url": "",
+                "date_range": "Nov 2016 - Jan 2020",
+                "duration": "3 yrs 3 mos",
+                "title": "Investment Professional"
+            },
+            {
+                "company": "Ambit Holdings Private Limited",
+                "company_linkedin_url": "https://www.linkedin.com/company/12041",
+                "date_range": "Jun 2015 - Oct 2016",
+                "duration": "1 yr 5 mos",
+                "title": "Investment Banking Associate"
+            },
+            {
+                "company": "J.P. Morgan",
+                "company_linkedin_url": "https://www.linkedin.com/company/1067",
+                "date_range": "Jun 2011 - Mar 2014",
+                "duration": "2 yrs 10 mos",
+                "title": "Equity Research Analyst"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "full_name": "Navnit Saurabh",
+        "linkedin_url": "https://www.linkedin.com/in/navnit-saurabh-50bb351a/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Mode",
+                "company_linkedin_url": "https://www.linkedin.com/company/18016269",
+                "date_range": "Aug 2023 - Present",
+                "duration": "1 yr 2 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "MODIFI",
+                "company_linkedin_url": "https://www.linkedin.com/company/18540971",
+                "date_range": "Aug 2022 - Aug 2023",
+                "duration": "1 yr 1 mo",
+                "title": "Head Of Sales"
+            },
+            {
+                "company": "PhonePe",
+                "company_linkedin_url": "https://www.linkedin.com/company/10479149",
+                "date_range": "May 2019 - Aug 2022",
+                "duration": "3 yrs 4 mos",
+                "title": "Regional Manager - North"
+            },
+            {
+                "company": "Ola (ANI Technologies Pvt. Ltd)",
+                "company_linkedin_url": "https://www.linkedin.com/company/2580522",
+                "date_range": "Jul 2018 - May 2019",
+                "duration": "11 mos",
+                "title": "Business Head - West"
+            },
+            {
+                "company": "Udio- A product from TranServ",
+                "company_linkedin_url": "https://www.linkedin.com/company/2007470",
+                "date_range": "Aug 2016 - Jul 2018",
+                "duration": "2 yrs",
+                "title": "AVP -  Merchant  & Corporate Business"
+            },
+            {
+                "company": "Paytm",
+                "company_linkedin_url": "https://www.linkedin.com/company/2340144",
+                "date_range": "Jan 2015 - Aug 2016",
+                "duration": "1 yr 8 mos",
+                "title": "Key Account Manager"
+            },
+            {
+                "company": "INSTANT SYSTEMS INC.",
+                "company_linkedin_url": "https://www.linkedin.com/company/201761",
+                "date_range": "May 2011 - Dec 2014",
+                "duration": "3 yrs 8 mos",
+                "title": "Manager of Marketing"
+            },
+            {
+                "company": "Logic Information System",
+                "company_linkedin_url": "",
+                "date_range": "Apr 2010 - Jun 2010",
+                "duration": "3 mos",
+                "title": "Summer Intern"
+            },
+            {
+                "company": "Balaji TMT Pvt. Ltd",
+                "company_linkedin_url": "",
+                "date_range": "Apr 2008 - Jul 2009",
+                "duration": "1 yr 4 mos",
+                "title": "Marketing Representative"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "full_name": "Shubham Chintalwar",
+        "linkedin_url": "https://www.linkedin.com/in/shuboid/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth",
+                "company_linkedin_url": "https://www.linkedin.com/company/91313799",
+                "date_range": "Aug 2024 - Present",
+                "duration": "2 mos",
+                "title": "Co-Founder"
+            },
+            {
+                "company": "PhonePe",
+                "company_linkedin_url": "https://www.linkedin.com/company/10479149",
+                "date_range": "Apr 2022 - Jul 2024",
+                "duration": "2 yrs 4 mos",
+                "title": "Engineering Manager (CTO, GigIndia)"
+            },
+            {
+                "company": "GigIndia",
+                "company_linkedin_url": "https://www.linkedin.com/company/13262102",
+                "date_range": "Feb 2020 - Mar 2022",
+                "duration": "2 yrs 2 mos",
+                "title": "CTO, GigIndia"
+            },
+            {
+                "company": "BrowserStack",
+                "company_linkedin_url": "https://www.linkedin.com/company/2553488",
+                "date_range": "Jul 2018 - Feb 2020",
+                "duration": "1 yr 8 mos",
+                "title": "Senior Software Engineer"
+            },
+            {
+                "company": "Amura Marketing Technologies",
+                "company_linkedin_url": "https://www.linkedin.com/company/651623",
+                "date_range": "Jul 2016 - Jul 2018",
+                "duration": "2 yrs 1 mo",
+                "title": "Software Engineer"
+            },
+            {
+                "company": "Spinaxon",
+                "company_linkedin_url": "",
+                "date_range": "May 2016 - May 2017",
+                "duration": "1 yr 1 mo",
+                "title": "Co-Founder"
+            },
+            {
+                "company": "BMC Software",
+                "company_linkedin_url": "https://www.linkedin.com/company/1597",
+                "date_range": "Aug 2015 - May 2016",
+                "duration": "10 mos",
+                "title": "Software Development Intern"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "full_name": "Vaibhav kamath",
+        "linkedin_url": "https://www.linkedin.com/in/vaibhav-kamath-a90832178/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Mar 2024 - Present",
+                "duration": "7 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "CRED",
+                "company_linkedin_url": "https://www.linkedin.com/company/14485479",
+                "date_range": "Aug 2023 - Feb 2024",
+                "duration": "7 mos",
+                "title": "Machine Learning Engineer"
+            },
+            {
+                "company": "Microsoft",
+                "company_linkedin_url": "https://www.linkedin.com/company/1035",
+                "date_range": "Apr 2021 - Jun 2023",
+                "duration": "2 yrs 3 mos",
+                "title": "Machine Learning Engineer"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "full_name": "Dhanraj Dhanokar",
+        "linkedin_url": "https://www.linkedin.com/in/dhanraj-dhanokar-569660125/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "AI-Preneur",
+                "company_linkedin_url": "https://www.linkedin.com/company/96421782",
+                "date_range": "Jan 2023 - Present",
+                "duration": "1 yr 9 mos",
+                "title": "Chief Executive Officer"
+            },
+            {
+                "company": "House Of Content",
+                "company_linkedin_url": "https://www.linkedin.com/company/102251086",
+                "date_range": "Jan 2024 - Present",
+                "duration": "9 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "GrowPartner",
+                "company_linkedin_url": "https://www.linkedin.com/company/89938684",
+                "date_range": "Oct 2020 - Present",
+                "duration": "4 yrs",
+                "title": "Founder"
+            },
+            {
+                "company": "BYJU'S",
+                "company_linkedin_url": "https://www.linkedin.com/company/2395365",
+                "date_range": "Apr 2020 - Oct 2020",
+                "duration": "7 mos",
+                "title": "Business Development Associate"
+            },
+            {
+                "company": "Acadium",
+                "company_linkedin_url": "https://www.linkedin.com/company/9601283",
+                "date_range": "Jan 2019 - Jan 2020",
+                "duration": "1 yr 1 mo",
+                "title": "Growth Hacker"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "full_name": "Jeetendra Gangele",
+        "linkedin_url": "https://www.linkedin.com/in/jeetgangele/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth",
+                "company_linkedin_url": "https://www.linkedin.com/company/91313799",
+                "date_range": "May 2024 - Present",
+                "duration": "5 mos",
+                "title": "Cofounder and CTO"
+            },
+            {
+                "company": "Virtuelly ",
+                "company_linkedin_url": "https://www.linkedin.com/company/71634211",
+                "date_range": "Jan 2022 - Aug 2024",
+                "duration": "2 yrs 8 mos",
+                "title": "Cofounder and CTO"
+            },
+            {
+                "company": "Ola Electric",
+                "company_linkedin_url": "https://www.linkedin.com/company/14567222",
+                "date_range": "May 2021 - Jan 2022",
+                "duration": "9 mos",
+                "title": "Director of Artificial Intelligence"
+            },
+            {
+                "company": "Lowe's India",
+                "company_linkedin_url": "https://www.linkedin.com/company/15143454",
+                "date_range": "Mar 2020 - May 2021",
+                "duration": "1 yr 3 mos",
+                "title": "Director/Principal search and recommendation[Data science]"
+            },
+            {
+                "company": "ContextSearch[acqui hire]",
+                "company_linkedin_url": "",
+                "date_range": "Aug 2019 - Feb 2020",
+                "duration": "7 mos",
+                "title": "Cofounder/CTO"
+            },
+            {
+                "company": "Accel",
+                "company_linkedin_url": "https://www.linkedin.com/company/17412",
+                "date_range": "Mar 2016 - Jul 2019",
+                "duration": "3 yrs 5 mos",
+                "title": "Head of Data Science"
+            },
+            {
+                "company": "Housing.com",
+                "company_linkedin_url": "https://www.linkedin.com/company/2741657",
+                "date_range": "Aug 2015 - Mar 2016",
+                "duration": "8 mos",
+                "title": "Head Data Engineering/Data Science"
+            },
+            {
+                "company": "InsideView Technologies, Inc.",
+                "company_linkedin_url": "https://www.linkedin.com/company/201805",
+                "date_range": "Jul 2014 - Aug 2015",
+                "duration": "1 yr 2 mos",
+                "title": "principal  Data Engineer"
+            },
+            {
+                "company": "The Apache Software Foundation",
+                "company_linkedin_url": "https://www.linkedin.com/company/215982",
+                "date_range": "May 2014 - Jul 2015",
+                "duration": "1 yr 3 mos",
+                "title": "Contributer Apache -Hbase"
+            },
+            {
+                "company": "The Apache Software Foundation",
+                "company_linkedin_url": "https://www.linkedin.com/company/215982",
+                "date_range": "Aug 2013 - Oct 2014",
+                "duration": "1 yr 3 mos",
+                "title": "Contributer -Apache Spark"
+            },
+            {
+                "company": "Expedia, Inc.",
+                "company_linkedin_url": "https://www.linkedin.com/company/2751",
+                "date_range": "Apr 2013 - Aug 2014",
+                "duration": "1 yr 5 mos",
+                "title": "Software Development Engineer III[data team]"
+            },
+            {
+                "company": "Amazon",
+                "company_linkedin_url": "https://www.linkedin.com/company/1586",
+                "date_range": "Oct 2011 - Apr 2013",
+                "duration": "1 yr 7 mos",
+                "title": "Software Development EngineerII"
+            },
+            {
+                "company": "IBM Labs",
+                "company_linkedin_url": "https://www.linkedin.com/company/1009",
+                "date_range": "Jun 2008 - Sep 2011",
+                "duration": "3 yrs 4 mos",
+                "title": "Software Engineer, Research lab"
+            },
+            {
+                "company": "Microsoft",
+                "company_linkedin_url": "https://www.linkedin.com/company/1035",
+                "date_range": "Jun 2007 - Nov 2007",
+                "duration": "6 mos",
+                "title": "Software Engineering Intern"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "full_name": "Akash Kadyan",
+        "linkedin_url": "https://www.linkedin.com/in/akashkadyan/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Supersquad",
+                "company_linkedin_url": "https://www.linkedin.com/company/103359014",
+                "date_range": "Feb 2024 - Present",
+                "duration": "8 mos",
+                "title": "Co-Founder"
+            },
+            {
+                "company": "Antler",
+                "company_linkedin_url": "https://www.linkedin.com/company/27221633",
+                "date_range": "Feb 2024 - May 2024",
+                "duration": "4 mos",
+                "title": "Entrepreneur in Residence"
+            },
+            {
+                "company": "Teamtrip",
+                "company_linkedin_url": "https://www.linkedin.com/company/77720965",
+                "date_range": "Nov 2021 - Sep 2023",
+                "duration": "1 yr 11 mos",
+                "title": "Founder"
+            },
+            {
+                "company": "Open Financial Technologies",
+                "company_linkedin_url": "https://www.linkedin.com/company/13255289",
+                "date_range": "Apr 2021 - Dec 2021",
+                "duration": "9 mos",
+                "title": "Product"
+            },
+            {
+                "company": "Flynote",
+                "company_linkedin_url": "https://www.linkedin.com/company/13573937",
+                "date_range": "Dec 2019 - Mar 2021",
+                "duration": "1 yr 4 mos",
+                "title": "Product"
+            },
+            {
+                "company": "Samagra | Transforming Governance",
+                "company_linkedin_url": "https://www.linkedin.com/company/13239680",
+                "date_range": "Apr 2020 - Jun 2020",
+                "duration": "3 mos",
+                "title": "Software Developer"
+            },
+            {
+                "company": "NASSCOM CoE - DSAI & IoT",
+                "company_linkedin_url": "https://www.linkedin.com/company/13305649",
+                "date_range": "Jun 2019 - Aug 2019",
+                "duration": "3 mos",
+                "title": "Data Science Intern"
+            },
+            {
+                "company": "AIESEC in Ukraine",
+                "company_linkedin_url": "https://www.linkedin.com/company/2034",
+                "date_range": "Jun 2018 - Aug 2018",
+                "duration": "3 mos",
+                "title": "Summer Intern"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "full_name": "Abhishek Kumar",
+        "linkedin_url": "https://www.linkedin.com/in/abhishek-kumar-6858a5320/",
+        "is_senior_operator": true,
+        "experience": [
+            {
+                "company": "Stealth Startup",
+                "company_linkedin_url": "https://www.linkedin.com/company/18583501",
+                "date_range": "Nov 2023 - Present",
+                "duration": "11 mos",
+                "title": "Co-Founder"
+            },
+            {
+                "company": "Freelance (Self employed)",
+                "company_linkedin_url": "https://www.linkedin.com/company/1256222",
+                "date_range": "Dec 2021 - Oct 2023",
+                "duration": "1 yr 11 mos",
+                "title": "Independent Technology Consultant"
+            },
+            {
+                "company": "Paytm",
+                "company_linkedin_url": "https://www.linkedin.com/company/2340144",
+                "date_range": "Aug 2020 - Nov 2021",
+                "duration": "1 yr 4 mos",
+                "title": "Vice President"
+            },
+            {
+                "company": "Amazon",
+                "company_linkedin_url": "https://www.linkedin.com/company/1586",
+                "date_range": "Nov 2015 - Jun 2019",
+                "duration": "3 yrs 8 mos",
+                "title": "Software Development Manager"
+            },
+            {
+                "company": "Samsung Electronics",
+                "company_linkedin_url": "https://www.linkedin.com/company/1753",
+                "date_range": "Apr 2009 - Oct 2015",
+                "duration": "6 yrs 7 mos",
+                "title": "SDE - III"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "full_name": "Puneet Srivastava",
+        "linkedin_url": "https://www.linkedin.com/in/puneetsrvt/",
+        "is_senior_operator": false,
+        "experience": [
+            {
+                "company": "Stealth Mode",
+                "company_linkedin_url": "https://www.linkedin.com/company/18016269",
+                "date_range": "Feb 2020 - Present",
+                "duration": "4 yrs 8 mos",
+                "title": "Stealth Mode"
+            },
+            {
+                "company": "Paytm",
+                "company_linkedin_url": "https://www.linkedin.com/company/2340144",
+                "date_range": "Sep 2018 - Feb 2020",
+                "duration": "1 yr 6 mos",
+                "title": "Team Lead"
+            },
+            {
+                "company": "Vodafone Idea Limited",
+                "company_linkedin_url": "https://www.linkedin.com/company/14439560",
+                "date_range": "Oct 2016 - Sep 2018",
+                "duration": "2 yrs",
+                "title": "Assistant Manager"
+            },
+            {
+                "company": "Micromax Informatics Ltd",
+                "company_linkedin_url": "https://www.linkedin.com/company/820313",
+                "date_range": "May 2015 - Sep 2016",
+                "duration": "1 yr 5 mos",
+                "title": "Management Trainee"
+            }
+        ]
+    }
+]
