@@ -75,24 +75,8 @@ python streamlit run app.py
 ```
 
 ## System Architecture
+<img width="704" alt="Screenshot 2025-03-19 at 12 09 59 PM" src="https://github.com/user-attachments/assets/a95c6378-036d-4790-afad-fe1122a4689c" />
 
-```
-flowchart TD
-    Input["Manual LinkedIn Profile Selection"] --> ProfileExtractor["Profile Extractor & Labeler"]
-    ProfileExtractor --> ProfilesDB[(Supabase Profiles DB)]
-    ProfilesDB --> Classifier["AI Profile Status Classifier (with examples)"]
-    Classifier --> AutoDecision{"Auto-approve?"}
-    AutoDecision -->|Yes| ProfilesDB
-    AutoDecision -->|No| HumanVerification["Human Verification"]
-    HumanVerification --> Classifier
-    HumanVerification --> ProfilesDB
-    ProfilesDB --> RefreshPipeline["Profile Refresh Pipeline"]
-    RefreshPipeline --> StatusChange{"Status Change?"}
-    StatusChange -->|No| ProfilesDB
-    StatusChange -->|Yes| UpdatesDB[(Status Updates DB)]
-    ProfilesDB --> StreamlitUI["Streamlit UI Dashboard"]
-    UpdatesDB --> StreamlitUI
-```
 
 ## APIs Used
 
