@@ -9,18 +9,17 @@ A tool for tracking and monitoring talent transitions using LinkedIn data. Monit
 - Visualize talent transitions over time
 
 ## Repository Structure
-.
-├── app.py                    # Main Streamlit application entry point
-├── data/                     # Database models and sample data
-│   └── data_models.txt       # Database schema definitions
-├── pipelines/                # Data processing pipelines
-│   ├── insert_profile.py     # Add new LinkedIn profiles to database
-│   ├── profile_refresh.py    # Update existing profiles and detect changes
-│   ├── profile_status_classifier.py  # AI classification of profile status
-│   └── senior_operator_labeller.py   # AI classification of senior operators
-└── streamlit_app/            # Streamlit application components
-├── app_views/            # UI views for different sections
-└── main_functions.py     # Core utility functions
+app.py                    # Main Streamlit application entry point
+- data/                     # Database models and sample data
+    - data_models.txt       # Database schema definitions
+- pipelines/                # Data processing pipelines
+    - insert_profile.py     # Add new LinkedIn profiles to database
+    - profile_refresh.py    # Update existing profiles and detect changes
+    - profile_status_classifier.py  # AI classification of profile status
+    - senior_operator_labeller.py   # AI classification of senior operators
+- streamlit_app/            # Streamlit application components
+    - app_views/            # UI views for different sections
+    - main_functions.py     # Core utility functions
 
 ## Setup
 
@@ -34,22 +33,34 @@ A tool for tracking and monitoring talent transitions using LinkedIn data. Monit
 
 Create a `.env` file with:
 
+```
+
 supabase_url=YOUR_SUPABASE_URL
 supabase_key=YOUR_SUPABASE_KEY
 rapidapi_api_key=YOUR_RAPIDAPI_KEY
 openai_api_key=YOUR_OPENAI_KEY
+
+```
 
 ## Usage
 
 ### Insert Profiles
 This script takes one LinkedIn profile URL and reference company names as input, fetches profile data, classifies it using AI, and adds it to the DB.
 
+```
+
 python pipelines/insert_profile.py
+
+```
 
 ### Refresh Profiles
 Updates existing profiles with fresh data from LinkedIn, detects status changes, and records transitions.
 
+```
+
 python pipelines/profile_refresh.py
+
+```
 
 ### Run Streamlit App
 Launches the web interface with three main views:
@@ -57,11 +68,16 @@ Launches the web interface with three main views:
 - Recent Status Updates: Track recent founder transitions
 - Current Employee Search: Monitor employees at target companies
 
+```
+
 python streamlit run app.py
+
+```
 
 ## System Architecture
 
-```flowchart TD
+```
+flowchart TD
     Input["Manual LinkedIn Profile Selection"] --> ProfileExtractor["Profile Extractor & Labeler"]
     ProfileExtractor --> ProfilesDB[(Supabase Profiles DB)]
     ProfilesDB --> Classifier["AI Profile Status Classifier (with examples)"]
