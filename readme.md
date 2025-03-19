@@ -59,6 +59,25 @@ Launches the web interface with three main views:
 
 python streamlit run app.py
 
+## System Architecture
+
+```flowchart TD
+    Input["Manual LinkedIn Profile Selection"] --> ProfileExtractor["Profile Extractor & Labeler"]
+    ProfileExtractor --> ProfilesDB[(Supabase Profiles DB)]
+    ProfilesDB --> Classifier["AI Profile Status Classifier (with examples)"]
+    Classifier --> AutoDecision{"Auto-approve?"}
+    AutoDecision -->|Yes| ProfilesDB
+    AutoDecision -->|No| HumanVerification["Human Verification"]
+    HumanVerification --> Classifier
+    HumanVerification --> ProfilesDB
+    ProfilesDB --> RefreshPipeline["Profile Refresh Pipeline"]
+    RefreshPipeline --> StatusChange{"Status Change?"}
+    StatusChange -->|No| ProfilesDB
+    StatusChange -->|Yes| UpdatesDB[(Status Updates DB)]
+    ProfilesDB --> StreamlitUI["Streamlit UI Dashboard"]
+    UpdatesDB --> StreamlitUI
+```
+
 ## APIs Used
 
 1. [Fresh LinkedIn Data API](https://rapidapi.com/freshdata-freshdata-default/api/fresh-linkedin-profile-data) - For fetching profile info
